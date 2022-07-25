@@ -1,1 +1,3 @@
-# serialTerminal
+The files containing the code to modify are :
+1. serialTerminal/Core/Inc/commands.h
+2. serialTerminal/Core/Src/commands.c
